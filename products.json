@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Producto 1",
+    "price": 100
+  },
+  {
+    "id": 2,
+    "name": "Producto 2",
+    "price": 200
+  },
+  {
+    "id": 3,
+    "title": "Agua",
+    "description": "700ml",
+    "code": "123",
+    "price": "12",
+    "stock": "11",
+    "category": "1",
+    "thumbnails": [],
+    "status": true
+  },
+  {
+    "id": 4,
+    "title": "tequila",
+    "description": "700ml",
+    "code": "123",
+    "price": "12",
+    "stock": "11",
+    "category": "1",
+    "thumbnails": [],
+    "status": true
+  },
+  {
+    "id": 5,
+    "title": "vodka",
+    "description": "700ml",
+    "code": "123",
+    "price": "12",
+    "stock": "11",
+    "category": "1",
+    "thumbnails": [],
+    "status": true
+  },
+  {
+    "id": 6,
+    "title": "vodka",
+    "description": "700ml",
+    "code": "123",
+    "price": "12",
+    "stock": "11",
+    "category": "1",
+    "thumbnails": [],
+    "status": true
+  }
+]
